@@ -1,0 +1,362 @@
+[
+  {
+    "Id": 1,
+    "Title": "Free Guy (2021)",
+    "Description": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+    "ReleaseDate": "2023-02-07T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 2,
+    "Title": "Candyman",
+    "Description": "A sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.",
+    "CoverImage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+    "ReleaseDate": "2022-12-09T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 3,
+    "Title": "Old",
+    "Description": "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/cGLL4SY6jFjjUZkz2eFxgtCtGgK.jpg",
+    "ReleaseDate": "2022-06-30T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 4,
+    "Title": "Malignant (2021)",
+    "Description": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/1N5e56325vwih8IeJ29k9FZf8p8.jpg",
+    "ReleaseDate": "2023-05-10T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 5,
+    "Title": "The Suicide Squad (2021)",
+    "Description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+    "ReleaseDate": "2021-12-01T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 6,
+    "Title": "Prisoners of the Ghostland (2021)",
+    "Description": "A notorious criminal must break an evil curse in order to rescue an abducted girl who has mysteriously disappeared.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/9424zyRdWp3Ze5XHsXZd64FeFGY.jpg",
+    "ReleaseDate": "2023-01-05T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 7,
+    "Title": "Nightbooks",
+    "Description": "Follows Alex, a boy obsessed with scary stories who is imprisoned by an evil young witch in her contemporary New York City apartment.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/ysJte1iqN8pFQ470tumnViB1wHP.jpg",
+    "ReleaseDate": "2023-05-01T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 8,
+    "Title": "Escape Room: Tournament of Champions (2021)",
+    "Description": "Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/jGYJyPzVgrVV2bgClI9uvEZgVLE.jpg",
+    "ReleaseDate": "2022-02-04T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 9,
+    "Title": "Black Widow (2021)",
+    "Description": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "ReleaseDate": "2023-05-04T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 10,
+    "Title": "F9: The Fast Saga",
+    "Description": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+    "ReleaseDate": "2021-11-09T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 11,
+    "Title": "Don't Breathe 2 (2021)",
+    "Description": "The sequel is set in the years following the initial deadly home invasion, where Norman Nordstrom (Stephen Lang) lives in quiet solace until his past sins catch up to him.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg",
+    "ReleaseDate": "2021-09-07T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 12,
+    "Title": "Stillwater (2021)",
+    "Description": "A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg",
+    "ReleaseDate": "2023-04-30T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 13,
+    "Title": "The Forever Purge (2021)",
+    "Description": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg",
+    "ReleaseDate": "2021-11-01T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 14,
+    "Title": "No Sudden Move (2021)",
+    "Description": "A group of criminals are brought together under mysterious circumstances and have to work together to uncover what's really going on when their simple job goes completely sideways.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/34BmdJkdvRweC3xJJFlOFQ2IbYc.jpg",
+    "ReleaseDate": "2023-03-04T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 15,
+    "Title": "Nobody",
+    "Description": "A bystander who intervenes to help a woman being harassed by a group of men becomes the target of a vengeful drug lord.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+    "ReleaseDate": "2022-02-01T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 16,
+    "Title": "Bliss (2021)",
+    "Description": "A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is a computer simulation.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg",
+    "ReleaseDate": "2022-02-28T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 17,
+    "Title": "The Misfits",
+    "Description": "After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/dPOyYnCkRbWAEem85N3VFpQODf5.jpg",
+    "ReleaseDate": "2023-06-09T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 18,
+    "Title": "Snake Eyes",
+    "Description": "A G.I. Joe spin-off centered around the character of Snake Eyes.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+    "ReleaseDate": "2021-05-06T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 19,
+    "Title": "Jack Reacher: Never Go Back",
+    "Description": "Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/wxLUQ1pIms3HAlVGYvEG9zg2kDs.jpg",
+    "ReleaseDate": "2018-04-09T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 20,
+    "Title": "Jungle Cruise",
+    "Description": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
+    "ReleaseDate": "2022-08-03T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 21,
+    "Title": "The Belko Experiment",
+    "Description": "In a twisted social experiment, 80 Americans are locked in their high-rise corporate office in Bogotá, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/faJK0dP3S92kQoKtO4LZMjy41kf.jpg",
+    "ReleaseDate": "2018-08-11T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 22,
+    "Title": "The Great Wall",
+    "Description": "A mystery centered around the construction of the Great Wall of China.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
+    "ReleaseDate": "2018-06-11T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 23,
+    "Title": "CODA (2021)",
+    "Description": "As a CODA (Child of Deaf Adults) Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+    "ReleaseDate": "2022-06-04T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 24,
+    "Title": "Settlers (2021)",
+    "Description": "Mankind's earliest settlers on the Martian frontier do what they must to survive the cosmic elements and each other.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg",
+    "ReleaseDate": "2022-01-05T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 25,
+    "Title": "Ride Along 2",
+    "Description": "As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/2433Vt8xuDnAIDAJTNx6DEtf9Qb.jpg",
+    "ReleaseDate": "2016-12-02T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 26,
+    "Title": "Ready or Not (2019)",
+    "Description": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg",
+    "ReleaseDate": "2020-02-10T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 27,
+    "Title": "Cars 3",
+    "Description": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg",
+    "ReleaseDate": "2018-10-07T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 28,
+    "Title": "Aquaman",
+    "Description": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and to be a hero to the world.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
+    "ReleaseDate": "2020-06-02T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 29,
+    "Title": "Guardians of the Galaxy",
+    "Description": "A group of space criminals must work together to stop the fanatical villain Ronan the Accuser from destroying the galaxy.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "ReleaseDate": "2014-06-04T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 30,
+    "Title": "Mulan (2020)",
+    "Description": "A young Chinese maiden disguises herself as a male warrior in order to save her father.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+    "ReleaseDate": "2020-06-10T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 31,
+    "Title": "Spiral",
+    "Description": "A criminal mastermind unleashes a twisted form of justice in Spiral, the terrifying new chapter from the book of Saw.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/lcyKve7nXRFgRyms9M1bndNkKOx.jpg",
+    "ReleaseDate": "2022-08-09T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 32,
+    "Title": "Bad Boys for Life (2020)",
+    "Description": "The Bad Boys Mike Lowrey and Marcus Burnett are back together for one last ride in the highly anticipated Bad Boys for Life.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "ReleaseDate": "2021-07-05T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 33,
+    "Title": "Moana",
+    "Description": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/4JeejGugONWpJkbnvL12hVoYEDa.jpg",
+    "ReleaseDate": "2018-04-10T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 34,
+    "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "Description": "Captain Jack Sparrow searches for the trident of Poseidon.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",
+    "ReleaseDate": "2017-05-04T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 35,
+    "Title": "The Green Knight (2021)",
+    "Description": "A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+    "ReleaseDate": "2022-11-06T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 36,
+    "Title": "Thor: Ragnarok",
+    "Description": "Imprisoned, the mighty Thor finds himself in a lethal gladiatorial contest against the Hulk, his former ally. Thor must fight for survival and race against time to prevent the all-powerful Hela from destroying his home and the Asgardian civilization.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "ReleaseDate": "2017-10-09T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 37,
+    "Title": "Thor: The Dark World",
+    "Description": "When Jane Foster is possessed by a great power, Thor must protect her from a new threat of old times: the Dark Elves.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+    "ReleaseDate": "2013-04-30T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 38,
+    "Title": "Borat Subsequent Moviefilm (2020)",
+    "Description": "Follow-up film to the 2006 comedy centering on the real-life adventures of a fictional Kazakh television journalist named Borat.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/kwh9dYvZLn7yJ9nfU5sPj2h9O7l.jpg",
+    "ReleaseDate": "2021-03-07T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 39,
+    "Title": "Frozen Fever",
+    "Description": "On Anna's birthday, Elsa and Kristoff are determined to give her the best celebration ever, but Elsa's icy powers may put more than just the party at risk.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/mPrDJ7puYzPLG5kPM96iNszF2sM.jpg",
+    "ReleaseDate": "2016-11-11T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 40,
+    "Title": "Doctor Strange",
+    "Description": "A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+    "ReleaseDate": "2018-02-08T23:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 41,
+    "Title": "Black Panther",
+    "Description": "T'Challa, after the death of his father, the King of Wakanda, returns home to the isolated, technologically advanced African nation to succeed to the throne and take his rightful place as king.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "ReleaseDate": "2019-08-05T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 42,
+    "Title": "Peter Rabbit 2: The Runaway (2021)",
+    "Description": "Thomas and Bea are now married and living with Peter and his rabbit family. Bored of life in the garden, Peter goes to the big city, where he meets shady characters and ends up creating chaos for the whole family.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+    "ReleaseDate": "2021-04-05T22:00:00.000Z",
+    "TypeMovie": "Movies"
+  },
+  {
+    "Id": 43,
+    "Title": "Tom Clancy's Without Remorse (2021)",
+    "Description": "John Clark, a Navy SEAL, goes on a path to avenge his wife's murder only to find himself inside of a larger conspiracy.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/6GCOpT8QcNzup09TAMmvvk22LTR.jpg",
+    "ReleaseDate": "2023-05-08T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 44,
+    "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+    "ReleaseDate": "2004-05-02T22:00:00.000Z",
+    "TypeMovie": "TV Shows"
+  },
+  {
+    "Id": 45,
+    "Title": "The Accountant",
+    "Description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+    "CoverImage": "http://image.tmdb.org/t/p/w185/nztAld019tFjllW7VCJvPFiFkt8.jpg",
+    "ReleaseDate": "2018-01-10T23:00:00.000Z",
+    "TypeMovie": "Movies"
+  }
+]
